@@ -1,2 +1,2 @@
 # Project-Management-System
-another repository
+It is used to track the status of the project
